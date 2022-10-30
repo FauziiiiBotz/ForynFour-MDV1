@@ -6,8 +6,8 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 
 💌 CARI AJA DIBAWAH INI
 
-📮 YOU TUBE :
-youtube.com/c/hokenbeusz
+📮 INSTAGRAM :
+Instagram.com/fauzibeban__
 
 📮 GITHUB :
 github.com/krizynofc/forynfour-MDV1
